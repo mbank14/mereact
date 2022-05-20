@@ -12,3 +12,9 @@ nav > ul li a{
   color: black;
   text-decoration: none ;
 }
+
+
+.dis-frow{
+  display: flex;
+  flex-direction: row;
+}
