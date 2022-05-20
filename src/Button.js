@@ -1,3 +1,3 @@
 export default function Button(props){
-    return <button>{props.children}</button>
+    return <button className="is-danger">{props.children}</button>
 }
